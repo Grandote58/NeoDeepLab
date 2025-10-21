@@ -1,4 +1,6 @@
-![NeoDeepLab (1)](C:\Users\juanc\OneDrive\Escritorio\DeepLearning\Recursos\NeoDeepLab (1).png)
+
+![NeoDeepLab (1)](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase002/assets/NeoDeepLab%20(1).png)
+
 
 # **🧪 Mini-práctica: medir rendimiento de dos modelos de regresión**
 
@@ -105,7 +107,8 @@ plt.show()
 
 
 
+![PiePagina](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase002/assets/PiePagina-1761060152178-4.png)
 
 
-![PiePagina](C:\Users\juanc\OneDrive\Escritorio\DeepLearning\Recursos\PiePagina.png)
+
 
