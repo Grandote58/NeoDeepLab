@@ -100,5 +100,6 @@ Modifica **un solo hiperparámetro** y comenta:
 
 
 
-![PiePagina](Clase002/assets/PiePagina-1761060152178-4.png)
+![PiePagina](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase002/assets/PiePagina-1761060152178-4.png)
+
 
