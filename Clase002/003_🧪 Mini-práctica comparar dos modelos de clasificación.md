@@ -1,4 +1,5 @@
-![NeoDeepLab (1)](C:\Users\juanc\OneDrive\Escritorio\DeepLearning\Recursos\NeoDeepLab (1).png)
+
+![NeoDeepLab (1)](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase002/assets/NeoDeepLab%20(1).png)
 
 # **🧪 Mini-práctica: comparar dos modelos de clasificación**
 
@@ -117,4 +118,7 @@ plt.show()
 | **F1-Score**  | Equilibrio entre precisión y recall | Necesitas balance general |
 | **AUC-ROC**   | Capacidad de separación             | Modelos probabilísticos   |
 
-![PiePagina](C:\Users\juanc\OneDrive\Escritorio\DeepLearning\Recursos\PiePagina.png)
+
+
+![PiePagina](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase002/assets/PiePagina-1761060152178-4.png)
+
