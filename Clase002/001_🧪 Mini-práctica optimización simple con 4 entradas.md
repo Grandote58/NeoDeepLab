@@ -1,4 +1,5 @@
-![NeoDeepLab (1)](Clase002/assets/NeoDeepLab (1).png)
+
+![NeoDeepLab (1)](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase002/assets/NeoDeepLab%20(1).png)
 
 # **🧪 Mini-práctica: optimización simple con 4 entradas**
 
@@ -100,3 +101,4 @@ Modifica **un solo hiperparámetro** y comenta:
 
 
 ![PiePagina](Clase002/assets/PiePagina-1761060152178-4.png)
+
