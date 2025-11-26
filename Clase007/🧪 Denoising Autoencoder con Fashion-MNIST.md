@@ -1,4 +1,4 @@
-![PRACTICA](D:\001_Uniminuto2025\IMAGENES\PRACTICA.png)
+![p1](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase007/assets/PRACTICA.png)
 
 # **🧪 Denoising Autoencoder con Fashion-MNIST**
 
@@ -464,4 +464,5 @@ En esta práctica has:
 
 
 
-![pie](D:\001_Uniminuto2025\IMAGENES\pie.png)
+
+![p2](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase007/assets/pie.png)
