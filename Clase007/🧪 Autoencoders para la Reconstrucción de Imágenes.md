@@ -1,6 +1,6 @@
 
 
-![PRACTICA](D:\001_Uniminuto2025\IMAGENES\PRACTICA.png)
+![p1](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase007/assets/PRACTICA.png)
 
 # **🧪 Autoencoders para la Reconstrucción de Imágenes**
 
@@ -446,4 +446,5 @@ En esta práctica has:
 6. Evaluado cuantitativamente el rendimiento mediante el **MSE**.
 7. Extraído representaciones latentes para análisis futuro.
 
-![pie](D:\001_Uniminuto2025\005DeepLearning\Clase007\assets\pie.png)
+
+![p2](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase007/assets/pie.png)
