@@ -1,4 +1,5 @@
-![PRACTICA](D:\001_Uniminuto2025\005DeepLearning\Clase008\Recursos\PRACTICA.png)
+![PRACTICA](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase008/assets/PRACTICA.png)
+
 
 # **🧪 Práctica: Denoising Autoencoder para Detección de Fraude Bancario**
 
@@ -503,5 +504,5 @@ plt.show()
 ```
 
 
+![pie](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase008/assets/pie.png)
 
-![pie](D:\001_Uniminuto2025\005DeepLearning\Clase008\Recursos\pie.png)
