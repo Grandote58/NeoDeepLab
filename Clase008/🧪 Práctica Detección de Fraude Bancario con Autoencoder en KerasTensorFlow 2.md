@@ -1,4 +1,4 @@
-![PRACTICA](D:\001_Uniminuto2025\005DeepLearning\Clase008\Recursos\assets\PRACTICA.png)
+![PRACTICA](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase008/assets/PRACTICA.png)
 
 # **🧪 Práctica: Detección de Fraude Bancario con Autoencoder en Keras/TensorFlow 2**
 
@@ -447,5 +447,6 @@ plt.grid(True)
 plt.show()
 ```
 
-![pie](D:\001_Uniminuto2025\005DeepLearning\Clase008\Recursos\assets\pie.png)
+![pie](https://github.com/Grandote58/NeoDeepLab/blob/main/Clase008/assets/pie.png)
+
 
